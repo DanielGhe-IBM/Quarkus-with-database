@@ -1,0 +1,9 @@
+org\project\repository\AuthorRepository.class
+org\project\resource\PublishingHouseResource.class
+org\project\resource\AuthorResource.class
+org\project\model\Author.class
+org\project\model\PublishingHouse.class
+org\project\resource\GenreResource.class
+org\project\model\Book.class
+org\project\model\Genre.class
+META-INF\panache-archive.marker
