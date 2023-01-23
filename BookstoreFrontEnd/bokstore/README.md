@@ -1,8 +1,9 @@
 # Bokstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
-
+<img width="798" alt="App Preview" src="https://user-images.githubusercontent.com/114587574/213983687-2b3c99df-5cdf-46fa-8158-7892974611ef.png">
 ## Development server
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
